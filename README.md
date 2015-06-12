@@ -9,7 +9,7 @@
 
 To run program
 
-```ruby run_prpgram.rb```
+```ruby run_program.rb```
 
 To run tests
 
