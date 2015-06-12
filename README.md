@@ -1,6 +1,6 @@
 ## Instructions
 
-```git clone https://github.com/kixton/prime_table.git```
+```git clone https://github.com/kixton/prime.git```
 
 ```gem install rspec```
 
