@@ -1,4 +1,4 @@
-## Instructions
+### Instructions
 
 ```git clone https://github.com/kixton/prime.git```
 
@@ -15,12 +15,12 @@ To run tests
 
 ```ruby run_tests.rb -fd```
 
-## Coding Challenge
+### Coding Challenge
 
 Print multiplication table of first 10 prime numbers
 Consider cases when you want N primes
 
-## Breakdown of Problem To Solve
+### Breakdown of Problem
 
  1) Write method, is_prime(n) to determine if n is a **Prime Number**:
  * Integer
